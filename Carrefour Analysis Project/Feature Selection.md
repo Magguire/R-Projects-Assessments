@@ -13,4 +13,4 @@ The project focuses on performing feature selection using 4 different methods in
  <br>
 The dataset provided is a Carrefour Supermarket dataset containing several customer attributes:<a href='http://bit.ly/CarreFourDataset'>  Dataset</a>
 <br>
-The solution is published in Rpubs. Follow this link:<a href='https://rpubs.com/Magguire/913897'> RPubs</a>
+The solution is published in Rpubs. Follow this link:<a href='https://rpubs.com/Magguire/913939'> RPubs</a>
